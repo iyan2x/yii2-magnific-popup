@@ -36,7 +36,9 @@ class MagnificPopup extends \yii\base\Widget
     
     /**
      * Effects in http://codepen.io/dimsemenov/pen/GAIkt
-     * @var string  
+     * @var string 
+     * ***** LIST OF Avilable value
+     * 'fade', 'with-zoom', 'zoom-in', 'newspaper',    'move-horizontal', 'move-from-top', '3d-unfold', 'zoom-out'
      */
     public $effect;
     
