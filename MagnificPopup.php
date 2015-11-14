@@ -1,6 +1,6 @@
 <?php
 
-namespace roman444uk\magnificPopup;
+namespace porcelanosa\magnificPopup;
 
 use yii;
 use yii\web\JsExpression;
@@ -55,7 +55,7 @@ class MagnificPopup extends \yii\base\Widget
     /**
      * @var string asset class
      */
-    public $asset = '\roman444uk\magnificPopup\MagnificPopupAsset';
+    public $asset = '\porcelanosa\magnificPopup\MagnificPopupAsset';
     
     /**
      * Run this widget.
