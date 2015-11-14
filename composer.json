@@ -3,7 +3,6 @@
     "description": "JQuery magnific popup widget",
     "version": "dev-master",
     "keywords": [
-        "roman444uk",
         "yii",
         "yii2",
         "yii 2",
@@ -11,11 +10,11 @@
         "magnific popup"
     ],
     "type": "yii2-extension",
-    "homepage": "https://github.com/roman444uk/yii2-magnific-popup",
+    "homepage": "https://github.com/porcelanosa/yii2-magnific-popup",
     "authors": [
         {
-            "name": "Roman Gnidenko",
-            "email": "roman444uk@mail.ru",
+            "name": "Alex Porcelanosa",
+            "email": "porcelanosam@gmail.com",
             "role": "Developer"
         }
     ],
@@ -25,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "roman444uk\\magnificPopup\\": ""
+            "porcelanosa\\magnificPopup\\": ""
         }
     }
 }
