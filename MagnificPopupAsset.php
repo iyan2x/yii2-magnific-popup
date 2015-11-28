@@ -15,7 +15,6 @@ class MagnificPopupAsset extends \yii\web\AssetBundle
     ];
     
     public $depends = [
-        'yii\web\YiiAsset',
-        'yii\bootstrap\BootstrapAsset',
+        'yii\web\JqueryAsset'
     ];
 }
