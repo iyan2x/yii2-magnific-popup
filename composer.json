@@ -1,5 +1,5 @@
 {
-    "name": "porcelanosa/yii2-magnific-popup",
+    "name": "arif/yii2-magnific-popup",
     "description": "JQuery magnific popup widget",
     "version": "dev-master",
     "keywords": [
@@ -10,11 +10,11 @@
         "magnific popup"
     ],
     "type": "yii2-extension",
-    "homepage": "https://github.com/porcelanosa/yii2-magnific-popup",
+    "homepage": "https://github.com/arif/yii2-magnific-popup",
     "authors": [
         {
-            "name": "Alex Porcelanosa",
-            "email": "porcelanosam@gmail.com",
+            "name": "M arif Alfian",
+            "email": "iyan2x@gmail.com",
             "role": "Developer"
         }
     ],
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "porcelanosa\\magnificPopup\\": ""
+            "arif\\magnificPopup\\": ""
         }
     }
 }
