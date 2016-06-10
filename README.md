@@ -39,7 +39,7 @@ echo MagnificPopup::widget(
 		'options' => [
 			'delegate'=> 'a',
 		],
-		'effect' => 'with-zoom' //for zoom effect
+		'effect' => 'with-zoom' //'fade', 'with-zoom', 'zoom-in', 'newspaper', 'move-horizontal', 'move-from-top', '3d-unfold', 'zoom-out'
 	]
 );
 ```
