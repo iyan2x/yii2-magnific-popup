@@ -7,14 +7,14 @@ This widget is wrapper for awesome jQuery plugin Magnific Popup By Dmitry Semeno
 Magnific Popup is a responsive lightbox & dialog script with focus on performance and providing best experience for user with any device
 (for jQuery or Zepto.js).
 ## Installing 
-``` composer require porcelanosa/yii2-magnific-popup "master-dev"```
+``` composer require arif/yii2-magnific-popup "master-dev"```
 ## Simple usage
 in view file 
 ```html
 	<a href="original.jpg" title="Caption text"><img  src="/thumb_img.jpg" alt="Alt"></a>
 ```
 ```php
-use porcelanosa\magnificPopup\MagnificPopup;
+use arif\magnificPopup\MagnificPopup;
 
 echo MagnificPopup::widget(
 	[
